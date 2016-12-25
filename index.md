@@ -16,4 +16,4 @@ This is the current [booklist](https://simon-mo.github.io/PKB/Booklist.html)
 - [Clippings in English](https://simon-mo.github.io/PKB/clips/clips.html)
 
 ## Testing
-[Testing Jupyter Notebook](https://simon-mo.github.io/PKB/Untitled.ipynb)
+[Testing Jupyter Notebook](https://nbviewer.jupyter.org/urls/simon-mo.github.io/PKB/Untitled.ipynb)
