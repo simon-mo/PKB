@@ -11,6 +11,9 @@ This is the current [booklist](https://simon-mo.github.io/PKB/Booklist.html)
 ## Thoughts Project
 - On Vippisanna Meditation
 
+## Past Courses
+- [Math 53](https://simon-mo.github.io/PKB/assets/Math53LectureNotes.pdf)
+
 ## Clippings
 - [Clippings in Chinese](https://simon-mo.github.io/PKB/clips/zh_clips.html)
 - [Clippings in English](https://simon-mo.github.io/PKB/clips/clips.html)
