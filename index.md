@@ -9,7 +9,9 @@ This is the current [booklist](https://simon-mo.github.io/PKB/Booklist.html)
 - The Story of Philosophy
 
 ## Thoughts Project
-- On Vippisanna Meditation
+- GEB is a classcial approach to AI, while the modern mass data approach is totally different. Which direction is right? We never know. Just like the classical and neoliberal economists, we never knew which direction is right. 
+- On meditation.
+- [Rember to file from DayOne]
 
 ## Past Courses
 - [Math 53](https://simon-mo.github.io/PKB/assets/Math53LectureNotes.pdf)
