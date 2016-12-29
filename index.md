@@ -11,6 +11,10 @@ This is the current [booklist](https://simon-mo.github.io/PKB/Booklist.html)
 ## Thoughts Project
 - GEB is a classcial approach to AI, while the modern mass data approach is totally different. Which direction is right? We never know. Just like the classical and neoliberal economists, we never knew which direction is right. 
 - On meditation.
+- Best Commencements
+  - DFWallace Kenyon
+  - NGaiman Make good arts
+  - Jobs Dots
 - [Rember to file from DayOne]
 
 ## Past Courses
