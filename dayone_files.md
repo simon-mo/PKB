@@ -182,15 +182,15 @@
 
  
 
-2015-07-28T19:14:06Z: William Manchester on Renaissance </string> 	<key>Ignore Step Count</key> 	<true
+2015-07-28T19:14:06Z: William Manchester on Renaissance 
 
  
 
-2015-08-06T02:32:40Z: From West Wing, "You know we forget sometimes when we we'll talking about democracy was sometimes forgets it's not a democracy it's a Republic , People don't make a decision they choose people who make decisions video a better job choosing yeah but when you consider the alternative...</string> 	<key>Ignore Step Count</key> 	<true
+2015-08-06T02:32:40Z: From West Wing, "You know we forget sometimes when we we'll talking about democracy was sometimes forgets it's not a democracy it's a Republic , People don't make a decision they choose people who make decisions video a better job choosing yeah but when you consider the alternative...
 
  
 
-2015-08-27T20:31:30Z: Don't cut people's words. Don't talk to people when they are at the middle of a conversation!</string> 	<key>Ignore Step Count</key> 	<true
+2015-08-27T20:31:30Z: Don't cut people's words. Don't talk to people when they are at the middle of a conversation!
 
  
 
@@ -198,11 +198,11 @@
 
  
 
-2015-08-29T21:51:35Z: JDSalinger  It gets no noisy in here I can hardly get myself to think </string> 	<key>Ignore Step Count</key> 	<true
+2015-08-29T21:51:35Z: JDSalinger  It gets no noisy in here I can hardly get myself to think 
 
  
 
-2015-08-30T03:55:58Z: /string> 	<key>Ignore Step Count</key> 	<true
+2015-08-30T03:55:58Z: 
 
  
 
@@ -222,7 +222,7 @@
 
  
 
-2015-10-25T22:39:56Z: On photography  When the new invention came out, people thought it has the power to capture the soul. Just as the early </string> 	<key>Ignore Step Count</key> 	<true
+2015-10-25T22:39:56Z: On photography  When the new invention came out, people thought it has the power to capture the soul. Just as the early 
 
  
 
@@ -230,7 +230,7 @@
 
  
 
-2016-01-08T22:58:19Z: Mr mo  Mr mo  Don't reveal the identity  Parents ? Education- nature </string> 	<key>Ignore Step Count</key> 	<true
+2016-01-08T22:58:19Z: Mr mo  Mr mo  Don't reveal the identity  Parents ? Education- nature 
 
  
 
@@ -270,11 +270,11 @@
 
  
 
-2016-07-11T13:36:23Z: 1. Efficiency of today's workplace.  Extremely high paced like University  Survive or out 2. 中国药品市场与规则 医保是怎么回事？ 政治心理 政治经济</string> 	<key>Ignore Step Count</key> 	<true
+2016-07-11T13:36:23Z: 1. Efficiency of today's workplace.  Extremely high paced like University  Survive or out 2. 中国药品市场与规则 医保是怎么回事？ 政治心理 政治经济
 
  
 
-2016-07-12T11:40:12Z: 科技是有限的 赶不上人与商业环境的变化 - 协和国际部 中国最好的医院 体验  从某种程度上来说，这更多的是一次打鸡血的体验。。。 大学真的要好好学</string> 	<key>Ignore Step Count</key> 	<true
+2016-07-12T11:40:12Z: 科技是有限的 赶不上人与商业环境的变化 - 协和国际部 中国最好的医院 体验  从某种程度上来说，这更多的是一次打鸡血的体验。。。 大学真的要好好学
 
  
 
@@ -282,11 +282,11 @@
 
  
 
-2016-07-13T14:26:46Z: 今天帮杨琼阿姨写了URS 爸爸一直强调 Competitiveness是这一类公司的要点 在压力下成长才是唯一的  晚上吃饭 爸爸介绍了当年打拼的人 我一个小所有人至少二十岁 倒倒茶倒倒酒也好  都在进步 每个人都有各自的优势 长处 进步  夏青叔叔为老药创新 推概念 如何识别病人 慧莹阿姨推药店盈利方式</string> 	<key>Ignore Step Count</key> 	<true
+2016-07-13T14:26:46Z: 今天帮杨琼阿姨写了URS 爸爸一直强调 Competitiveness是这一类公司的要点 在压力下成长才是唯一的  晚上吃饭 爸爸介绍了当年打拼的人 我一个小所有人至少二十岁 倒倒茶倒倒酒也好  都在进步 每个人都有各自的优势 长处 进步  夏青叔叔为老药创新 推概念 如何识别病人 慧莹阿姨推药店盈利方式
 
  
 
-2016-07-14T04:31:20Z: What's on the other side of the fear? Nothing  The notes are under your finger. It takes time to find it.   </string> 	<key>Ignore Step Count</key> 	<true
+2016-07-14T04:31:20Z: What's on the other side of the fear? Nothing  The notes are under your finger. It takes time to find it.   
 
  
 
@@ -298,7 +298,7 @@
 
  
 
-2016-07-15T02:19:17Z: /string> 	<key>Ignore Step Count</key> 	<true
+2016-07-15T02:19:17Z: 
 
  
 
@@ -306,19 +306,19 @@
 
  
 
-2016-07-16T12:11:11Z: 楚叔叔家晚餐。无论如何 越累越累 但游刃有余即好</string> <key>Ignore Step Count</key> 	<true
+2016-07-16T12:11:11Z: 楚叔叔家晚餐。无论如何 越累越累 但游刃有余即好
 
  
 
-2016-07-17T12:11:59Z: 内向型人格 自己过得好就行 自私吗？或许是 </string> 	<key>Ignore Step Count</key> 	<true
+2016-07-17T12:11:59Z: 内向型人格 自己过得好就行 自私吗？或许是 
 
  
 
-2016-07-18T03:39:21Z: 上午 客服关系- 同行交流。多面关系 情绪管理 政策多变 随时应对</string> 	<key>Ignore Step Count</key> 	<true
+2016-07-18T03:39:21Z: 上午 客服关系- 同行交流。多面关系 情绪管理 政策多变 随时应对
 
  
 
-2016-07-19T10:23:47Z: 进取心 学习思维能力 市场 人文关怀</string> 	<key>Ignore Step Count</key> 	<true
+2016-07-19T10:23:47Z: 进取心 学习思维能力 市场 人文关怀
 
  
 
@@ -338,19 +338,19 @@
 
  
 
-2016-08-15T17:54:29Z: /string> 	<key>Ignore Step Count</key> 	<true
+2016-08-15T17:54:29Z: 
 
  
 
-2016-08-17T02:32:07Z: "Give me a library, and I will build a university around it. "</string> 	<key>Ignore Step Count</key> 	<true
+2016-08-17T02:32:07Z: "Give me a library, and I will build a university around it. "
 
  
 
-2016-08-17T16:23:24Z: 所谓君子慎独，讲的 不是不要一个人，而是不要只有一个视角。east pluralism</string> 	<key>Ignore Step Count</key> 	<true
+2016-08-17T16:23:24Z: 所谓君子慎独，讲的 不是不要一个人，而是不要只有一个视角。east pluralism
 
  
 
-2016-08-17T16:25:32Z: 现在才知道Day One记录的时间，位置等等看似无用的数据有什么用。回顾的时候 总问自己 我当时是怎么写下、记下这句话的？what's the context?</string> 	<key>Ignore Step Count</key> 	<true
+2016-08-17T16:25:32Z: 现在才知道Day One记录的时间，位置等等看似无用的数据有什么用。回顾的时候 总问自己 我当时是怎么写下、记下这句话的？what's the context?
 
  
 
@@ -358,7 +358,7 @@
 
  
 
-2016-08-20T02:07:19Z: BCSSA Welcoming Night  Club is a platform. Instead of providing valuable content, the club should aim at bringing **resource** to student. Matching supply and demand.  Questions raised on such issue then,     The problem of nonprofit      Not every club could do this   Interestingly, the organizers are natural connectors since everyone takes several roles in different clubs (again, channeling and resources) </string> 	<key>Ignore Step Count</key> 	<true
+2016-08-20T02:07:19Z: BCSSA Welcoming Night  Club is a platform. Instead of providing valuable content, the club should aim at bringing **resource** to student. Matching supply and demand.  Questions raised on such issue then,     The problem of nonprofit      Not every club could do this   Interestingly, the organizers are natural connectors since everyone takes several roles in different clubs (again, channeling and resources) 
 
  
 
@@ -422,7 +422,7 @@
 
  
 
-2016-09-15T07:39:16Z: 中秋 大学第一个Midterm </string> 	<key>Ignore Step Count</key> 	<true
+2016-09-15T07:39:16Z: 中秋 大学第一个Midterm 
 
  
 
@@ -438,11 +438,11 @@
 
  
 
-2016-09-27T23:31:58Z: Robert Sullivan on Hamilton the Musical. </string> 	<key>Ignore Step Count</key> 	<true
+2016-09-27T23:31:58Z: Robert Sullivan on Hamilton the Musical. 
 
  
 
-2016-09-29T07:35:54Z: 8 wake up , five minutes late.  Math 53 Discussion - quiz- this time i did homework but still couldn't improve much. The issue lies method and hour spent </string> 	<key>Ignore Step Count</key> 	<true
+2016-09-29T07:35:54Z: 8 wake up , five minutes late.  Math 53 Discussion - quiz- this time i did homework but still couldn't improve much. The issue lies method and hour spent 
 
  
 
