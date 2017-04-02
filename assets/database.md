@@ -2,7 +2,7 @@
 
 \#\#\# FOR GSoC - AIMA ONLY ###
 
-I built a relational database management system with Domain Specific Language similar to SQL. With a simple REPL client, user can use SQL like language to store, read, and manipulate data. 
+I built a relational database management system with Domain Specific Language similar to SQL, from scratch. With a simple REPL client, user can use SQL like language to store, read, and manipulate data. 
 
 The Spec: 
 

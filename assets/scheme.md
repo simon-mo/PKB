@@ -1,6 +1,10 @@
 # Scheme Interpreter Project
 
-For the final project of CS61A: Structures and Interpretation of Computer Programs, I completed the code for an interpreter. 
+For the final project of CS61A: Structures and Interpretation of Computer Programs, I completed the code for an interpreter, based on some skeleton code. 
+
+The Spec:
+
+http://www-inst.eecs.berkeley.edu/~cs61a/fa16/proj/scheme/
 
 ## Features
 
