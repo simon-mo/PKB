@@ -18,7 +18,8 @@ This is the current [booklist](https://simon-mo.github.io/PKB/Booklist.html)
 - [Rember to file from DayOne]
 
 ## Past Courses
-- [Math 53](https://simon-mo.github.io/PKB/assets/Math53LectureNotes.pdf)
+- [Math 53 Full Notes](https://simon-mo.github.io/PKB/assets/Math53LectureNotes.pdf)
+- [Math 54 IMT diagram](https://simon-mo.github.io/PKB/assets/math54_imt.pdf)
 
 ## Will Durant Project
 - [See file](https://simon-mo.github.io/PKB/durant.md)
